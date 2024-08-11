@@ -14,10 +14,10 @@ The backend is powered by FastAPI, ensuring fast and efficient processing, while
 - [Usage](#usage)
 
 ## Features
--Upload documents for quick summarization
--Receive concise summaries powered by the BART model
--FastAPI backend ensures efficient processing
--React frontend offers a seamless user experience
+- Upload documents for quick summarization
+- Receive concise summaries powered by the BART model
+- FastAPI backend ensures efficient processing
+- React frontend offers a seamless user experience
 
 ## Technologies Used
 
@@ -39,7 +39,7 @@ The backend is powered by FastAPI, ensuring fast and efficient processing, while
 ### Frontend
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/sagarBhardwaj5500/DocumentSummerize.git
     cd filesummarizer/frontend
     ```
 
