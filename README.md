@@ -85,3 +85,11 @@ The backend is powered by FastAPI, ensuring fast and efficient processing, while
 2. Start the frontend development server as described in the installation steps.
 3. Open your browser and navigate to `http://localhost:3000` to use the application.
 4. Upload a document and get a summarized version.
+
+##  Bibliography
+- https://fastapi.tiangolo.com/#requirements
+- https://medium.com/@ryver.dev/building-a-simple-ai-powered-text-summarizer-with-transformers-in-python-0a31c848e1d2
+- https://medium.com/@kasongokakumbiguy/large-language-model-llm-into-your-react-app-adb4b05819f3
+- https://youtu.be/RIWbalZ7sTo?si=4mPGCm_u-hbBIwZ9
+- https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/
+- https://huggingface.co/docs/transformers/en/model_doc/bert
